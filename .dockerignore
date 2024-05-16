@@ -1,0 +1,14 @@
+node_modules/
+.git/
+.cache/
+tmp/
+test/
+tests/
+npm-debug.log
+Dockerfile
+.gitignore
+.dockerignore
+.nyc_output
+.git
+README.md
+logs
